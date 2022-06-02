@@ -1,0 +1,387 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1919px;
+	 height: 2693px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1919px;
+	 height: 2693px;
+	 z-index:1;
+} 
+
+ #whitebackground 
+{ 
+	 left: -8px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1927px;
+	 height: 2699px;
+	 z-index:2;
+} 
+
+ #ehrintalyan 
+{ 
+	 left: 1154px; 
+	 top: 374px; 
+	 position: absolute; 
+	 width: 519px;
+	 height: 70px;
+	 z-index:3;
+} 
+
+ #BizKalitelibesinlere 
+{ 
+	 left: 1230px; 
+	 top: 576px; 
+	 position: absolute; 
+	 width: 375px;
+	 height: 336px;
+	 z-index:4;
+} 
+
+ #Layer1copy2 
+{ 
+	 left: 1145px; 
+	 top: 466px; 
+	 position: absolute; 
+	 width: 537px;
+	 height: 6px;
+	 z-index:5;
+} 
+
+ #VectorSmartObjectcop 
+{ 
+	 left: 1130px; 
+	 top: 496px; 
+	 position: absolute; 
+	 width: 585px;
+	 height: 42px;
+	 z-index:6;
+} 
+
+ #Layer2 
+{ 
+	 left: -8px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1927px;
+	 height: 132px;
+	 z-index:7;
+} 
+
+ #Layer3copy 
+{ 
+	 left: -8px; 
+	 top: 2628px; 
+	 position: absolute; 
+	 width: 1927px;
+	 height: 71px;
+	 z-index:8;
+} 
+
+ #Layer3copy_0 
+{ 
+	 left: 857px; 
+	 top: 2628px; 
+	 position: absolute; 
+	 width: 197px;
+	 height: 71px;
+	 z-index:9;
+} 
+
+ #Franchise 
+{ 
+	 left: 461px; 
+	 top: 61px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 22px;
+	 z-index:10;
+} 
+
+ #Men 
+{ 
+	 left: 649px; 
+	 top: 61px; 
+	 position: absolute; 
+	 width: 66px;
+	 height: 23px;
+	 z-index:11;
+} 
+
+ #Galeri 
+{ 
+	 left: 800px; 
+	 top: 61px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 22px;
+	 z-index:12;
+} 
+
+ #ubeler 
+{ 
+	 left: 944px; 
+	 top: 61px; 
+	 position: absolute; 
+	 width: 91px;
+	 height: 31px;
+	 z-index:13;
+} 
+
+ #nsanKaynaklar 
+{ 
+	 left: 1099px; 
+	 top: 58px; 
+	 position: absolute; 
+	 width: 191px;
+	 height: 34px;
+	 z-index:14;
+} 
+
+ #layer_15 
+{ 
+	 left: 1070px; 
+	 top: 51px; 
+	 position: absolute; 
+	 width: 2px;
+	 height: 47px;
+	 z-index:15;
+} 
+
+ #letiimcopy 
+{ 
+	 left: 1363px; 
+	 top: 58px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 35px;
+	 z-index:16;
+} 
+
+ #copy2 
+{ 
+	 left: 1320px; 
+	 top: 51px; 
+	 position: absolute; 
+	 width: 2px;
+	 height: 47px;
+	 z-index:17;
+} 
+
+ #layer_18 
+{ 
+	 left: 908px; 
+	 top: 51px; 
+	 position: absolute; 
+	 width: 2px;
+	 height: 47px;
+	 z-index:18;
+} 
+
+ #layer_19 
+{ 
+	 left: 758px; 
+	 top: 51px; 
+	 position: absolute; 
+	 width: 2px;
+	 height: 47px;
+	 z-index:19;
+} 
+
+ #layer_20 
+{ 
+	 left: 612px; 
+	 top: 51px; 
+	 position: absolute; 
+	 width: 2px;
+	 height: 47px;
+	 z-index:20;
+} 
+
+ #Copyright2018Fabbric 
+{ 
+	 left: 1533px; 
+	 top: 2655px; 
+	 position: absolute; 
+	 width: 335px;
+	 height: 17px;
+	 z-index:21;
+} 
+
+ #BayiGirii 
+{ 
+	 left: 1714px; 
+	 top: 56px; 
+	 position: absolute; 
+	 width: 112px;
+	 height: 29px;
+	 z-index:22;
+} 
+
+ #Layer3 
+{ 
+	 left: 88px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 259px;
+	 height: 152px;
+	 z-index:23;
+} 
+
+ #Logo 
+{ 
+	 left: 110px; 
+	 top: 50px; 
+	 position: absolute; 
+	 width: 216px;
+	 height: 71px;
+	 z-index:24;
+} 
+
+ #Pizza 
+{ 
+	 left: -120px; 
+	 top: 193px; 
+	 position: absolute; 
+	 width: 1291px;
+	 height: 1507px;
+	 z-index:25;
+} 
+
+ #Bizitakipedin 
+{ 
+	 left: 931px; 
+	 top: 2655px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 17px;
+	 z-index:26;
+} 
+
+ #layer_27 
+{ 
+	 left: 1051px; 
+	 top: 2649px; 
+	 position: absolute; 
+	 width: 2px;
+	 height: 29px;
+	 z-index:27;
+} 
+
+ #SosyalMedya 
+{ 
+	 left: 1067px; 
+	 top: 2647px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 30px;
+	 z-index:28;
+} 
+
+ #Layer5 
+{ 
+	 left: 1000px; 
+	 top: 1455px; 
+	 position: absolute; 
+	 width: 940px;
+	 height: 658px;
+	 z-index:29;
+} 
+
+ #MenButonu 
+{ 
+	 left: 707px; 
+	 top: 1648px; 
+	 position: absolute; 
+	 width: 413px;
+	 height: 73px;
+	 z-index:30;
+} 
+
+ #Tazernlerihijyenikko 
+{ 
+	 left: 40px; 
+	 top: 1649px; 
+	 position: absolute; 
+	 width: 586px;
+	 height: 247px;
+	 z-index:31;
+} 
+
+ #Layer7 
+{ 
+	 left: -93px; 
+	 top: 2019px; 
+	 position: absolute; 
+	 width: 911px;
+	 height: 606px;
+	 z-index:32;
+} 
+
+ #FranchiseButtonu 
+{ 
+	 left: 686px; 
+	 top: 2348px; 
+	 position: absolute; 
+	 width: 411px;
+	 height: 72px;
+	 z-index:33;
+} 
+
+ #Kalitelihizmetanlaym 
+{ 
+	 left: 1169px; 
+	 top: 2282px; 
+	 position: absolute; 
+	 width: 663px;
+	 height: 247px;
+	 z-index:34;
+} 
+
+ #Layer8copy 
+{ 
+	 left: 1127px; 
+	 top: 2279px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 244px;
+	 z-index:35;
+} 
+
+ #Layer8 
+{ 
+	 left: 660px; 
+	 top: 1598px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 326px;
+	 z-index:36;
+} 
+
+ #goodfoodgoodmood 
+{ 
+	 left: 1111px; 
+	 top: 1574px; 
+	 position: absolute; 
+	 width: 312px;
+	 height: 145px;
+	 z-index:37;
+} 
